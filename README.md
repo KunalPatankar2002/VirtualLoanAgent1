@@ -38,6 +38,3 @@ To set up the Virtual Loan Agent project locally, follow these steps:
 - Users can input their loan requirements (interest rate, loan term, eligibility) to view a curated list of available loans categorized under personal, business, home, vehicle, and student loans.
 - Utilize the loan calculator feature to compare and calculate different loan options.
 - Admins can log in to the Django admin panel to access and manage the entire database of banks, their interest rates, and loan categories.
-
-## Support or Contact
-For any inquiries or support regarding the Virtual Loan Agent project, please contact janvi.bagrecha@gmail.com
